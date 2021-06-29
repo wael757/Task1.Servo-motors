@@ -6,6 +6,6 @@ https://www.tinkercad.com/things/fumkamhDwiU-incredible-amberis-hillar/editel?sh
 
 
 
-2-making the servo motor rotates from 0 to 90 degrees depending on the value of a variable resistor:
+2-making the servo motor rotates from 0 to 90 degrees dependes on the value of a variable resistor:
 https://www.tinkercad.com/things/dfSptILFgQ4-task1servomotorvariableresistor/editel?sharecode=Udq1EQPAfJOrZDyn5WGMsoxzT7koKmMhGd0gS8Dut6A
 
